@@ -29,21 +29,15 @@ public class LineUtils {
 
 ### Description
 
-Images
-![slide1](/images/slide1.jpg)
+![slide1](/images/slide1.JPG)
 
-Images
-![slide2](/images/slide2.jpg)
+![slide2](/images/slide2.JPG)
 
-Images
-![slide3](/images/slide3.jpg)
+![slide3](/images/slide3.JPG)
 
-Images
-![slide4](/images/slide4.jpg)
+![slide4](/images/slide4.JPG)
 
-Images
-![slide5](/images/slide5.jpg)
+![slide5](/images/slide5.JPG)
 
-Images
-![slide6](/images/slide6.jpg)
+![slide6](/images/slide6.JPG)
 
